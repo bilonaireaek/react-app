@@ -12,7 +12,7 @@
 		"ghcr.io/devcontainers/features/git-lfs:1": {},
 		"ghcr.io/devcontainers/features/node:1": {},
 		"ghcr.io/devcontainers/features/powershell:1": {},
-		"ghcr.io/rocker-org/devcontainer-features/miniforge:1": {},
+		"ghcr.io/rocker-org/devcontainer-features/miniforge:2": {},
 		"ghcr.io/rocker-org/devcontainer-features/renv-cache:0": {},
 		"ghcr.io/devcontainers-contrib/features/devcontainers-cli:1": {},
 		"ghcr.io/devcontainers-contrib/features/dive:1": {},
